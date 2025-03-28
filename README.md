@@ -1,3 +1,9 @@
+![Screenshot 2025-03-28 160146](https://github.com/user-attachments/assets/675d1728-c2d0-4aa5-bc6c-588fdc24b705)
+![Screenshot 2025-03-28 151732](https://github.com/user-attachments/assets/89a5e513-fcd6-4ffd-89b9-1937850227a9)
+![Screenshot 2025-03-28 151641](https://github.com/user-attachments/assets/dac90667-1398-4e8c-aadb-0be01def34ba)
+
+
+
 # Gen AI Analytics Backend
 
 ## Setup Instructions
