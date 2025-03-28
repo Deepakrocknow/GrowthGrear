@@ -42,6 +42,8 @@
 
 ```bash
 curl -X POST http://localhost:5000/api/query -H "Authorization: Bearer mock-token" -H "Content-Type: application/json" -d '{"query": "What is the sales data for Q1?"}'
+
+you can even do it with [ https://growth-grear-as7s.vercel.app/api/query ] instead of loacal host to view it
 POST /api/explain
 Description: Returns a simulated query breakdown.
 Headers: Authorization: Bearer mock-token, Content-Type: application/json
