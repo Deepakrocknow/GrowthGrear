@@ -1,9 +1,3 @@
-Certainly! Here's a single-page README with all the information and curl commands consolidated:
-
-Markdown
-
-Collapse
-
 # Gen AI Analytics Backend
 
 ## Setup Instructions
@@ -11,16 +5,14 @@ Collapse
 1. **Clone the Repository**:
 
    - Open your terminal and run:
-     ```bash
-     git clone <repository-url>
-     ```
-   - Replace `<repository-url>` with the actual URL of your GitHub repository.
-
+   - 
+      "https://github.com/Deepakrocknow/GrowthGrear"
+     
 2. **Navigate to the Backend Directory**:
 
    - Change into the backend directory:
      ```bash
-     cd mern-gen-ai-analytics/backend
+     cd backend
      ```
 
 3. **Install Dependencies**:
